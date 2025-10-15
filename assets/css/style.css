@@ -1,0 +1,28 @@
+
+
+/* Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    width: 300px;
+    box-shadow: 1px 8px 93px 0px rgba(0,0,0,0.44);
+    padding: 1.5rem;
+    border-radius: 5px;
+
+}
